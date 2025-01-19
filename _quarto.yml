@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "test"
   navbar:
     left:
       - href: index.qmd
@@ -15,8 +15,8 @@ website:
       - icon: github
         href: https://github.com/YOURUSERNAME/YOURREPO
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    right: "test"
+    left: "test"
 
 format:
   html:
