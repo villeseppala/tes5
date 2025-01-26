@@ -1,13 +1,15 @@
 ---
 title: "teste"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
 ---
 
-:::{#me}
-
+::: {#me}
 ## test
 :::
 
+::: {.content-visible when-profile="finnish"}
+testi suomi
+:::
+
+::: {.content-visible when-profile="english"}
+test englani
+:::

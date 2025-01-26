@@ -1,0 +1,27 @@
+project:
+  title: "My Website (Advanced)"
+
+
+  output-dir: ./_site/fi
+
+website:
+  body-header: |
+    <link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><button onclick="window.location = location.href.replace('/fi/','/en/');" class="btn"><i class="fa fa-language"></i> Eng </button>
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: perf
+      - href: tes.qmd
+        text: ff
+      - href: ../en
+        text: English
+      - href: ../fi
+        text: Finnish
+
+
+lang: fi
+
+
+

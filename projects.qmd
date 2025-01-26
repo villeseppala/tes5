@@ -2,4 +2,12 @@
 title: "Projess"
 ---
 
-#
+#ss 
+
+::: {.content-visible when-profile="finnish"}
+testi suomi
+:::
+
+::: {.content-visible when-profile="english"}
+test englani
+:::
