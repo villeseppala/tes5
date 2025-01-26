@@ -1,7 +1,7 @@
 project:
   title: "My Website (Advanced)"
 
-  output-dir: ./_site/en
+  output-dir: ./docs/en
 
 website:
   body-header: |

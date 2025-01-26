@@ -2,7 +2,7 @@ project:
   title: "My Website (Advanced)"
 
 
-  output-dir: ./_site/fi
+  output-dir: ./_docs/fi
 
 website:
   body-header: |
